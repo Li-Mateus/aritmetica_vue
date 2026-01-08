@@ -26,7 +26,7 @@
         break;
       
       case '÷':
-        numero.result = n2 !== 0? n2  / n2: "Não é possível dividir por 0";
+        numero.result = n2 !== 0? n1  / n2: "Não é possível dividir por 0";
         break;
     }
   }
